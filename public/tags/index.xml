@@ -5,20 +5,11 @@
     <link>/tags/</link>
     <description>Recent content in Tags on Société d’Histoire de l’Ukraine des Slobodes Orientales – Mémoire retrouvée</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>vie de l&#39;association</title>
-      <link>/tags/vie-de-lassociation/</link>
-      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/vie-de-lassociation/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 28 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>documents</title>
       <link>/tags/documents/</link>
-      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/documents/</guid>
       <description></description>
@@ -27,18 +18,18 @@
     <item>
       <title>pdf</title>
       <link>/tags/pdf/</link>
-      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/pdf/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>web</title>
-      <link>/tags/web/</link>
-      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <title>vie de l&#39;association</title>
+      <link>/tags/vie-de-lassociation/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tags/web/</guid>
+      <guid>/tags/vie-de-lassociation/</guid>
       <description></description>
     </item>
     
@@ -66,6 +57,15 @@
       <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/ressources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>/tags/web/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/web/</guid>
       <description></description>
     </item>
     
