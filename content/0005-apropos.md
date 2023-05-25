@@ -2,7 +2,7 @@
 author: "Mémoire retrouvée"
 title: "À propos de l'association"
 date: "2023-04-28"
-description: "Buts de notre association et son cadre thématique et géographique"
+description: "Buts de notre association et le cadre thématique et géographique"
 tags: [
     "vie de l'association",
 ]
